@@ -1,4 +1,4 @@
-# Image-Classification-Using-Machine-Learning-and-Deep-Learning
+# Image-Classification-Using-SVM, CNN and NN model
 This project was developed as part of my coursework to explore machine learning and deep learning techniques for image classification tasks using the CIFAR-10 dataset.
 
 The project evaluates the performance of three different approaches:
@@ -10,7 +10,7 @@ Convolutional Neural Network (CNN) model
 Fully Connected Neural Network (NN) model
 
 📁 Project Structure
-Big Data CW Final.ipynb — Jupyter notebook containing complete code for data preprocessing, model building, training, evaluation, and result analysis.
+Image-Classification-Using-SVM, CNN and NN model.ipynb — Jupyter notebook containing complete code for data preprocessing, model building, training, evaluation, and result analysis.
 
 CIFAR-10 dataset loaded via Keras Datasets.
 
